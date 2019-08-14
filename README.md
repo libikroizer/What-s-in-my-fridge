@@ -1,4 +1,5 @@
-# StartCooking
+# What's in my fridge
+I created this project for self learning purposes. In this project I'm diving in to the NGRX world and Angular Material styling.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.1.2.
 
