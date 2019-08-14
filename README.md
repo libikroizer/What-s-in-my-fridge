@@ -1,4 +1,5 @@
 # What's in my fridge
+The website i'm creating will allow you to add products that you have in your fridge and search for recpies that suits your needs.
 I created this project for self learning purposes. In this project I'm diving in to the NGRX world and Angular Material styling.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.1.2.
