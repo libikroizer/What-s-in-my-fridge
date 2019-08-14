@@ -1,0 +1,43 @@
+:host {
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  top: 0;
+}
+.bg {
+  background-image: url('https://images.unsplash.com/photo-1495471547134-98698271c52a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60');
+  height: 100%;
+  width: 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  image-rendering: auto;
+  image-rendering: crisp-edges;
+  image-rendering: pixelated;
+  image-rendering: -webkit-optimize-contrast;
+}
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 40px;
+  font-style: oblique;
+  display: inline-block;
+}
+.mat-form-field{
+  display: block;
+  font-size: 20px;
+}
+.button{
+  display: inline-flex;
+  float: right;
+}
+.example-card {
+  width: 200px;
+  float: right;
+  margin-top: 230px;
+  margin-right: 150px;
+  box-shadow: 5px;
+}
